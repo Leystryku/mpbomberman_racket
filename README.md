@@ -10,7 +10,7 @@
 ![ingame_bombburn](https://github.com/Leystryku/mpbomberman_racket/blob/main/showcase/4.png?raw=true "Bomb burning down some trees")
 ![titlescreen](https://github.com/Leystryku/mpbomberman_racket/blob/main/showcase/5.png?raw=true "Titlescreen")
 
-This is a multiplayer Bomberman created in Racket (LISP dialect).
+This is a multiplayer Bomberman created in Racket (LISP dialect, functional programming).
 File convention is based on the one used in Garry's Mod (https://github.com/Facepunch/garrysmod)
 
 The project was created for a University Course.
