@@ -1,4 +1,4 @@
-# Multiplayer Bomberman in Racket
+# Multiplayer Bomberman in Racket (LISP dialect)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
 [![Racket Version](https://img.shields.io/badge/racket-v7.8%2Bstable-blue)](https://racket-lang.org)
 [![App Version](https://img.shields.io/badge/version-v1.0.0-brightgreen)](https://github.com/Leystryku/mpbomberman_racket)
@@ -10,7 +10,7 @@
 ![ingame_bombburn](https://github.com/Leystryku/mpbomberman_racket/blob/main/showcase/4.png?raw=true "Bomb burning down some trees")
 ![titlescreen](https://github.com/Leystryku/mpbomberman_racket/blob/main/showcase/5.png?raw=true "Titlescreen")
 
-This is a multiplayer Bomberman created in Racket.
+This is a multiplayer Bomberman created in Racket (LISP dialect).
 File convention is based on the one used in Garry's Mod (https://github.com/Facepunch/garrysmod)
 
 The project was created for a University Course.
@@ -47,7 +47,7 @@ The project was created for a University Course.
 	* Game Events
 	* Cleanups
 	* Comments (Documentation)
-	* blabla
+	* etc
 - Marc:
 	* Manuals PDF
 	* Gameover Serverside Logic
