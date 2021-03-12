@@ -13,7 +13,7 @@
 This is a multiplayer Bomberman created in Racket (LISP dialect, functional programming).
 File convention is based on the one used in Garry's Mod (https://github.com/Facepunch/garrysmod)
 
-The project was created for a University Course.
+The project was created for a University Course. Timespan for entire project: 1 week :)
 
 ## Getting Started
 
